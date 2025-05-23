@@ -1,4 +1,4 @@
-This repository contains the code for "How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning".
+This repository contains the code for "How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning", Hannah Sansford, Nick Whiteley, Patrick Rubin-Delanchy. https://arxiv.org/abs/2505.16879
 
 The notebook `toy_example.ipynb` is standalone and can be run without any additional data.
 
